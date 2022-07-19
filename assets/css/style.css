@@ -1,0 +1,57 @@
+body{
+    background-color:rgb(201, 233, 201) ;
+
+
+}
+
+h1{
+    text-align: center;
+    margin-top: 130px;
+    color: #0A2E36;
+    font-size: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imgCapa{
+    position: absolute;
+    width: 1349px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 500px;
+    border-radius: 25px;    
+}
+
+h2{
+   text-align: center;
+   margin-top: 200px;
+   font-size: 40px;
+   color: #0A2E36;
+   font-family:Arial, Helvetica, sans-serif ;
+}
+.pratoPrincipal{
+    
+    margin: 200px;
+    margin-top: -20px;
+    
+}
+.imgChickPea{
+    margin-left: 103px;
+    width: 728px;
+}
+.ingredientes{
+   
+    width: 592px;
+    margin-left: 118px;
+    font-size: 25px;
+    color: #007C33;
+    line-height: 29px;
+    
+    
+}
+h3{
+    margin-left: 100px;
+    font-size: 30px;
+    margin-top: -74px;
+    color: #00370B;
+}
