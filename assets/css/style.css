@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(201, 233, 201) ;
+     background-color: rgb(223, 235, 223)
 
 
 }
@@ -38,6 +38,7 @@ h2{
 .imgChickPea{
     margin-left: 103px;
     width: 728px;
+    border-radius: 101px;
 }
 .ingredientes{
    
@@ -45,13 +46,59 @@ h2{
     margin-left: 118px;
     font-size: 25px;
     color: #007C33;
-    line-height: 29px;
-    
-    
+    line-height: 29px;   
+    font-family: Arial, Helvetica, sans-serif;
 }
+
 h3{
     margin-left: 100px;
     font-size: 30px;
     margin-top: -74px;
     color: #00370B;
+    font-family:Arial, Helvetica, sans-serif ;
 }
+
+h4{
+   font-size: 25px;
+   margin-left: 120px; 
+   margin-top: 75px;
+   color: #00370B;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.preparo{
+    font-size: 25px;
+    margin-left: 120px;
+    color: #007C33;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h5{
+    font-size: 36px;
+    text-align: center;
+    margin-top: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.outrasReceitas{
+ border-radius: 37px;
+
+}
+
+.img1{
+    width: 320px;
+    margin-left: 155px;
+    
+}
+
+.img2{
+    width: 320px;
+    margin-left: 33px;
+}
+
+.img3{
+    width: 320px;
+    margin-left: 32px;
+    
+}
+    
+    
