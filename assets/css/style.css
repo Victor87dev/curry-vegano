@@ -19,7 +19,8 @@ h1{
     left: 0px;
     right: 0px;
     height: 500px;
-    border-radius: 25px;    
+    border-radius: 25px;
+    z-index: -1;    
 }
 
 h2{
@@ -40,6 +41,15 @@ h2{
     width: 728px;
     border-radius: 101px;
 }
+
+.title h3{
+    margin-left: 100px;
+    font-size: 30px;
+    margin-top: -74px;
+    color: #00370B;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
 .ingredientes{
    
     width: 592px;
@@ -50,18 +60,11 @@ h2{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h3{
-    margin-left: 100px;
-    font-size: 30px;
-    margin-top: -74px;
-    color: #00370B;
-    font-family:Arial, Helvetica, sans-serif ;
-}
 
-h4{
+
+.title h4{
    font-size: 25px;
    margin-left: 120px; 
-   margin-top: 75px;
    color: #00370B;
    font-family: Arial, Helvetica, sans-serif;
 }
@@ -71,9 +74,16 @@ h4{
     margin-left: 120px;
     color: #007C33;
     font-family: Arial, Helvetica, sans-serif;
+    margin-top: 75px;
 }
 
+.preparo li{
+    list-style: none;
+} 
+    
+
 h5{
+    color: #0A2E36;
     font-size: 36px;
     text-align: center;
     margin-top: 200px;
@@ -100,5 +110,6 @@ h5{
     margin-left: 32px;
     
 }
-    
+
+
     
