@@ -10,3 +10,5 @@ curry vegano 🥬 criado para treinar minhas habilidades 👨‍💻
 ### 💻 Descrição 
 
 Projeto criado no figma e depois feito no vscode 
+
+####  Obrigado por visitar o projeto! 💚
